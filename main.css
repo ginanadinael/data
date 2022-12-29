@@ -1,5 +1,6 @@
+
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
-/* @import url("font-awesome.min.css"); script удалить с индекс*/
+/* @import url("font-awesome.min.css"); script ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ Ð¸Ð½Ð´ÐµÐºÑ*/
 
 /*
 	Aerial by HTML5 UP
@@ -581,7 +582,7 @@
 				transform: translate3d(0,0,0);
 				display: inline-block;
 				height: 5.35em;
-			/*	line-height: 5.885em; Отступ текста под ссылками*/
+			/*	line-height: 5.885em; ÐžÑ‚ÑÑ‚ÑƒÐ¿ Ñ‚ÐµÐºÑÑ‚Ð° Ð¿Ð¾Ð´ ÑÑÑ‹Ð»ÐºÐ°Ð¼Ð¸*/
 				opacity: 0;
 				position: relative;
 				top: 0;
